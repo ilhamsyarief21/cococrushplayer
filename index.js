@@ -14,6 +14,8 @@ const music = new Audio();
 
 const songs = [
     {
+
+        
         path: 'assets/cupid.mp3',
         displayName: 'Cupid',
         cover: 'assets/music1.jpg',
